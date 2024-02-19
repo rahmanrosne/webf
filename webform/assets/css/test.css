@@ -1,0 +1,80 @@
+.conteainer{
+    display: flex;
+    width: 1360px;
+}
+.form-left-section{
+    background-color: aqua;
+    width: 860px;
+    padding: 100px 0;
+    display: flex;
+}
+.form-left-wrapper{
+    padding-left: 30%;
+    position: relative;
+}
+.form-left-wrapper h2{
+    color: blue;
+    font-size: ;
+    position: absolute;
+    transform: rotate(-90deg);
+    left: 10%;
+    bottom: 30%;
+
+}
+form .name{
+    padding-bottom: 20px;
+display: flex;
+
+}
+form .name input{
+    background-color: azure;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 10px;
+    margin-right: 20px;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+form .name textarea{
+    background-color: azure;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 10px;
+    width: 400px;
+    height: 100px;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.form-right-section{
+    width: 500px;
+    background-color: aliceblue;
+    padding: 100px 0;
+    padding-left: 70px;
+    display: flex;
+}
